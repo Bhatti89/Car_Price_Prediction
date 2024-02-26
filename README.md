@@ -36,7 +36,7 @@ The trained linear regression model achieved an R-squared score of approximately
    pip install pandas numpy matplotlib scikit-learn
 
 2. Clone the repository to your local machine:
-   git clone https://github.com/Bhatti89/car-price-prediction.git
+   git clone https://github.com/Bhatti89/Car_Price_Prediction.git
    cd car-price-prediction
 
 3. Run the Jupyter Notebook \`car_price_prediction.ipynb\` to train the model and analyze the results.
